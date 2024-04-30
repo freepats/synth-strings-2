@@ -1,0 +1,101 @@
+//+ Name: Synth Strings 2
+//+ Date: 2020-05-29
+//+ URL: http://freepats.localhost/Synthesizer/synth-strings.html#SynthStrings2
+
+<global>
+ //+ Instrument: Synth Strings 2
+ ampeg_attack=0.001
+ ampeg_release=1.5
+
+<group>
+ loop_mode=loop_continuous
+<region>
+ lokey=24 hikey=30
+ pitch_keycenter=28
+ loop_start=40 loop_end=435700
+ sample=samples/28.flac
+<region>
+ lokey=31 hikey=34
+ pitch_keycenter=32
+ loop_start=40 loop_end=342047
+ sample=samples/32.flac
+<region>
+ lokey=35 hikey=38
+ pitch_keycenter=36
+ loop_start=16 loop_end=375641
+ sample=samples/36.flac
+<region>
+ lokey=39 hikey=42
+ pitch_keycenter=40
+ loop_start=20 loop_end=272083
+ sample=samples/40.flac
+<region>
+ lokey=43 hikey=46
+ pitch_keycenter=44
+ loop_start=17 loop_end=293349
+ sample=samples/44.flac
+<region>
+ lokey=47 hikey=50
+ pitch_keycenter=48
+ loop_start=20 loop_end=286255
+ sample=samples/48.flac
+<region>
+ lokey=51 hikey=54
+ pitch_keycenter=52
+ loop_start=20 loop_end=261607
+ sample=samples/52.flac
+<region>
+ lokey=55 hikey=58
+ pitch_keycenter=56
+ loop_start=17 loop_end=215477
+ sample=samples/56.flac
+<region>
+ lokey=59 hikey=62
+ pitch_keycenter=60
+ loop_start=18 loop_end=227846
+ sample=samples/60.flac
+<region>
+ lokey=63 hikey=66
+ pitch_keycenter=64
+ loop_start=18 loop_end=235614
+ sample=samples/64.flac
+<region>
+ lokey=67 hikey=70
+ pitch_keycenter=68
+ loop_start=17 loop_end=235171
+ sample=samples/68.flac
+<region>
+ lokey=71 hikey=74
+ pitch_keycenter=72
+ loop_start=18 loop_end=226257
+ sample=samples/72.flac
+<region>
+ lokey=75 hikey=78
+ pitch_keycenter=76
+ loop_start=20 loop_end=219815
+ sample=samples/76.flac
+<region>
+ lokey=79 hikey=82
+ pitch_keycenter=80
+ loop_start=17 loop_end=188031
+ sample=samples/80.flac
+<region>
+ lokey=83 hikey=86
+ pitch_keycenter=84
+ loop_start=20 loop_end=175906
+ sample=samples/84.flac
+<region>
+ lokey=87 hikey=90
+ pitch_keycenter=88
+ loop_start=16 loop_end=179845
+ sample=samples/88.flac
+<region>
+ lokey=91 hikey=94
+ pitch_keycenter=92
+ loop_start=16 loop_end=158479
+ sample=samples/92.flac
+<region>
+ lokey=95 hikey=101
+ pitch_keycenter=96
+ loop_start=17 loop_end=186108
+ sample=samples/96.flac
